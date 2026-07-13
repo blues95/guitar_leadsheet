@@ -1,27 +1,27 @@
 {
-  "updatedAt": 1783842392793,
+  "updatedAt": 1783913033926,
   "songs": [
     {
       "id": "demo",
       "title": "Love Like This",
       "artist": "Fujii Kaze",
-      "text": "Am6 = 5x455x\nAm/B = 7x755x\nC#m7 = x46454\nF#dim7/E = 0x424x\nEsus2/G# = 4x445x\n\n{Intro}\n||: F#dim7/E E | Esus2/G# | Am6 | Am/B :||\n\n{A}\nF#dim7/E E | Esus2/G# | AM7 | Am6\n>Feeling |more than perfect, |amazing |more than words can\nEsus2/G# | C#m7 | F#m7 | Am/B\n>explain it's |purest form of |reality |divinity\nF#dim7/E E | Esus2/G# | AM7 | Am6\n>I've been |suffering in this |tiring |crazy world like I'm\nEsus2/G# | C#m7 | F#m7 | G#7(b13)\n>drowning|there's no way to |escape I thought but| finally here I am\n\n{B}\nC#m7 | G#m7 | F#m7 A/B | EM7\n>I'll never find another| love like this, it's true | I'll never find another | love like this\nD#m7(b5) G#7 | C#m7 E/B | Bbm7(b5) | Am7 G#7(b13)\n>Baby, can you feel it| too just like I do? |Who does pa-|  radise belong to\nC#m7 | G#m7 | F#m7 A/B | EM7\n>I'll never find another| love like this, I know | I'll never find another | love like this\nC#m7 | G#m7 C#7(b9) | F#7sus4 F#7 | A/B Am/B ||\n>Baby, can I give it to you? |Just like you do |Then we share it  |too\n\n{음절 방식 예시}\n[C#m7]이렇게 쓰면 [G#m7]음절 위에 [F#m7]코드가 [B7]붙어요",
+      "text": "Am6 = 5x455x\nAm/B = 7x755x\nC#m7 = x46454\nF#dim7/E = 0x424x\nEsus2/G# = 4x445x\n\n{Intro}\n||: F#dim7/E _ E _ | Esus2/G# _ _ _ | Am6 _ _ _ | Am/B _ _ _ :||\n\n{A}\nF#dim7/E _ E _ | Esus2/G# _ _ _ | AM7 _ _ _ | Am6 _ _ _\n> | | |\nEsus2/G# _ _ _ | C#m7 _ _ _ | F#m7 _ _ _ | Am/B _ _ _\n> | | |\nF#dim7/E _ E _ | Esus2/G# _ _ _ | AM7 _ _ _ | Am6 _ _ _\n> | | |\nEsus2/G# _ _ _ | C#m7 _ _ _ | F#m7 _ _ _ | G#7(b13) _ _ _\n> | | |\n\n{B}\nC#m7 _ _ _ | G#m7 _ _ _ | F#m7 _ A/B _ | EM7 _ _ _\n> | | |\nD#m7(b5) _ G#7 _ | C#m7 _ E/B _ | Bbm7(b5) _ _ _ | Am7 _ G#7(b13) _\n> | | |\nC#m7 _ _ _ | G#m7 _ _ _ | F#m7 _ A/B _ | EM7 _ _ _\n> | | |\nC#m7 _ _ _ | G#m7 _ C#7(b9) _ | F#7sus4 _ F#7 _ | A/B _ Am/B _ ||\n> | | |\n\n{음절 방식 예시}\n[C#m7]이렇게 쓰면 [G#m7]음절 위에 [F#m7]코드가 [B7]붙어요",
       "transpose": 0,
       "capo": 0,
       "accMode": "auto",
       "diagMode": "off",
-      "updatedAt": 1783842392793
+      "updatedAt": 1783912888788
     },
     {
       "id": "mrhgw8v0v7bq",
       "title": "",
       "artist": "",
-      "text": "{a}\n| | | | |\n| | | | |",
+      "text": "Am6 = 5x455x\nAm/B = 7x755x\nC#m7 = x46454\nF#dim7/E = 0x424x\nEsus2/G# = 4x445x\n\n{Intro}\n||: F#dim7/E _ E _ | Esus2/G# _ _ _ | Am6 _ _ _ | Am/B _ _ _ :||\n\n{A}\nF#dim7/E _ E _ | Esus2/G# _ _ _ | AM7 _ _ _ | Am6 _ _ _\n> | | |\nEsus2/G# _ _ _ | C#m7 _ _ _ | F#m7 _ _ _ | Am/B _ _ _\n> | | |\nF#dim7/E _ E _ | Esus2/G# _ _ _ | AM7 _ _ _ | Am6 _ _ _\n> | | |\nEsus2/G# _ _ _ | C#m7 _ _ _ | F#m7 _ _ _ | G#7(b13) _ _ _\n> | | |\n\n{B}\nC#m7 _ _ _ | G#m7 _ _ _ | F#m7 _ A/B _ | EM7 _ _ _\n> | | |\nD#m7(b5) _ G#7 _ | C#m7 _ E/B _ | Bbm7(b5) _ _ _ | Am7 _ G#7(b13) _\n> | | |\nC#m7 _ _ _ | G#m7 _ _ _ | F#m7 _ A/B _ | EM7 _ _ _\n> | | |\nC#m7 _ _ _ | G#m7 _ C#7(b9) _ | F#7sus4 _ F#7 _ | A/B _ Am/B _\n> | | |\n\n{음절 방식 예시}\n[C#m7]이렇게 쓰면 [G#m7]음절 위에 [F#m7]코드가 [B7]붙어요",
       "transpose": 0,
       "capo": 0,
       "accMode": "auto",
-      "diagMode": "first",
-      "updatedAt": 1783841102785
+      "diagMode": "off",
+      "updatedAt": 1783912832391
     }
   ]
 }
