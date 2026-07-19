@@ -1,0 +1,21 @@
+{
+  "updatedAt": 1784464744478,
+  "songs": [
+    {
+      "id": "beta-demo",
+      "title": "16분 리듬 예제",
+      "artist": "",
+      "text": "{16th Groove}\n||: C - - - x - x . x - - - G7 - x - | F - - - x . x . x - - - G7 - - - :||\n\n{Funk}\nC . x . x - x . x . x . G7 - - - | F - - - - - - - x . x . x - x -\n\n{6/8 Ballad}\n6/8 C - - x - - | Am7 - - - - - | F - - G7 - - | C - - - - -\n\n{쉬운 축약 — 8분·4분 그리드}\nC - . x G7 - x - | Am7 . G7 x\nDm7 - | G7 -",
+      "transpose": 0,
+      "updatedAt": 1784464708160
+    },
+    {
+      "id": "mrq96t7qed22",
+      "title": "You",
+      "artist": "Fujii Kaze",
+      "text": "{A}\nEbM9 - - - - - Eb/G - - - - - Cm7 - - - | Fm7 - - - - - - - Ab/Bb - - - Bdim7 - - -\nCm7 - - Eb/G - - Fm7 - - - - - - - - - | Aaug/B - - - - - Fm7/Bb - - - - - Ab/Bb - - -\nEbM9 - - - - - Eb/G - - - - - Cm7 - - - | Fm7 - - - - - - - Ab/Bb - - - Bdim7 - - -\nCm7 - - Eb/G - - Fm7 - - - - - - - - - | Fm7/Bb - - - - - EbM7 - - - - - - - - -\n{B}\nGm7 - - - - - - - Cm7 - - Gb6 - - Fm7 - | - - - - - - - - Fm7/Bb - - - Ebsus2/Ab - - -\nGm7 - - - - - - - Cm7 - - - - - - - | BM7 - - - Gbsus2/Bb - - - Abm7 - - - Abm7/Db - - -\nGbM7 - - - - - - - Abm/Db - - Gm/C - - - BM7 | - - - - - - - - - - - - - - - -\nD/E - - - - - - - Ebm9 - - - - - - - | Abm7 - - - Bbm7 - - - BM7 - - - Abm7/Db - - -\n{c}\nEbM7 - - - - - - Bbm7 - - - - Db/Eb - - - | Ab - - - - - - Abm - - - - B/C# - - -\nGm7 - - - - - - Bb/C - - - - Cm7 - - - | Fm7 - - - - - - Fm7/Bb - - - - Ebsus2/Ab - - -\nGm7 - - - - - - Bbm7 - - - - Db/Eb - - - | Ab - - - - - - Abm - - - - B/C# - - -\nGm7 - - - - - - Bb/C - - - - Cm7 - - - | Fm7 - - - Gm7 - - - AbM7 - - - Fm7/Bb - - -\n{interlude}\nEbM9 - - - - - Eb/G - - - - - Cm7 - - - | Fm7 - - - - - - - Ab/Bb - - - Bdim7 - - -\nCm7 - - Eb/G - - Fm7 - - - - - - - - - | Aaug/B - - - - - Fm7/Bb - - - - - Ab/Bb - - -",
+      "transpose": 0,
+      "updatedAt": 1784461045002
+    }
+  ]
+}
