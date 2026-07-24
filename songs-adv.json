@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784464744478,
+  "updatedAt": 1784905784902,
   "songs": [
     {
       "id": "beta-demo",
@@ -16,6 +16,14 @@
       "text": "{A}\nEbM9 - - - - - Eb/G - - - - - Cm7 - - - | Fm7 - - - - - - - Ab/Bb - - - Bdim7 - - -\nCm7 - - Eb/G - - Fm7 - - - - - - - - - | Aaug/B - - - - - Fm7/Bb - - - - - Ab/Bb - - -\nEbM9 - - - - - Eb/G - - - - - Cm7 - - - | Fm7 - - - - - - - Ab/Bb - - - Bdim7 - - -\nCm7 - - Eb/G - - Fm7 - - - - - - - - - | Fm7/Bb - - - - - EbM7 - - - - - - - - -\n{B}\nGm7 - - - - - - - Cm7 - - Gb6 - - Fm7 - | - - - - - - - - Fm7/Bb - - - Ebsus2/Ab - - -\nGm7 - - - - - - - Cm7 - - - - - - - | BM7 - - - Gbsus2/Bb - - - Abm7 - - - Abm7/Db - - -\nGbM7 - - - - - - - Abm/Db - - Gm/C - - - BM7 | - - - - - - - - - - - - - - - -\nD/E - - - - - - - Ebm9 - - - - - - - | Abm7 - - - Bbm7 - - - BM7 - - - Abm7/Db - - -\n{c}\nEbM7 - - - - - - Bbm7 - - - - Db/Eb - - - | Ab - - - - - - Abm - - - - B/C# - - -\nGm7 - - - - - - Bb/C - - - - Cm7 - - - | Fm7 - - - - - - Fm7/Bb - - - - Ebsus2/Ab - - -\nGm7 - - - - - - Bbm7 - - - - Db/Eb - - - | Ab - - - - - - Abm - - - - B/C# - - -\nGm7 - - - - - - Bb/C - - - - Cm7 - - - | Fm7 - - - Gm7 - - - AbM7 - - - Fm7/Bb - - -\n{interlude}\nEbM9 - - - - - Eb/G - - - - - Cm7 - - - | Fm7 - - - - - - - Ab/Bb - - - Bdim7 - - -\nCm7 - - Eb/G - - Fm7 - - - - - - - - - | Aaug/B - - - - - Fm7/Bb - - - - - Ab/Bb - - -",
       "transpose": 0,
       "updatedAt": 1784461045002
+    },
+    {
+      "id": "mrz2p1lsa1cr",
+      "title": "미친건가",
+      "artist": "주혜린",
+      "text": "{intro}\nEbM9 - - - - - - - EM9 - - - - - - - | EbM9 - - - - - - - EM9 - - - - - - - | EbM9 - - - - - - - EM9 - - - - - - - | EbM9 - - - - - - - EM9 - - - - - - -\n{a}\nEbM9 - - - - - - - - - - - - - - - | EbaugM7 - - - - - - - - - - - - - - - | EbM6 - - - - - - - - - - - - - - - | Eb9 - - - - - - - - - - - - - - -\nFm9 - - - - - - - - - - - - - - - | E9 - - - - - - - - - - - - - - - | EbM9 - - - - - - - - - - - - - - - | . . . . . . . . . . . . . . . .\n. | . | . | .\n. | . | . | .\n. | . | . | .\n. | . | . | .\n. | . | . | .",
+      "transpose": 0,
+      "updatedAt": 1784905729632
     }
   ]
 }
