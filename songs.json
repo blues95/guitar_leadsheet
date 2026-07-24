@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783913964770,
+  "updatedAt": 1784905052773,
   "songs": [
     {
       "id": "demo",
@@ -10,18 +10,18 @@
       "capo": 0,
       "accMode": "auto",
       "diagMode": "off",
-      "updatedAt": 1783913865168
+      "updatedAt": 1783943046156
     },
     {
       "id": "mrhgw8v0v7bq",
-      "title": "",
-      "artist": "",
-      "text": "{A}\n_ | _ | _ | _\n_ | _ | _ | _\n_ | _ | _ | _\n_ | _ | _ | _\n_ | _ | _ | _\n_ | _ | _ | _\n_ | _ | _ | _\n_ | _ | _ | _",
+      "title": "미친건가",
+      "artist": "주혜린",
+      "text": "{intro}\nEbM9 _ EM9 _ | EbM9 _ EM9 _ | EbM9 _ EM9 _ | EbM9 _ EM9 _\n{a}\nEbM9 | EbaugM7 | EbM6 | Eb9\nFm9 | E9 | EbM9 | %\nEbM9 | EbaugM7 | EbM6 | Eb9\nFm9 | E9 | Fm9 | Bb7(13) _ Bb7(b13) _\n{b}\nEbM7 | Dm7(b5) _ G7 _ | Cm9 _ B9 _ | Bbm7 _ Eb9 _\nAbM7 | Eb/G | F9 | Bb7(13)\nEbM7 | Dm7(b5) _ G7 _ | Cm9 _ B9 _ | Bbm7 _ Eb9 _\nAbM7 | Eb/G | F9 | Bb7(13) _ Bb7(b13) _\n{solo}\nEbM7 | Dm7(b5) _ G7 _ | Cm9 _ B9 _ | Bbm7 _ Eb9 _\nAbM7 | Eb/G | F9 | Bb7(13)\nEbM9 | EbaugM7 | EbM6 | Eb9\nFm9 | E9 | Fm9 | Bb7(13) _ Bb7(b13) _\n{b'}\nEbM7 | Dm7(b5) _ G7 _ | Cm9 _ B9 _ | Bbm7 _ Eb9 _\nAbM7 | Eb/G | F9 | Bb7(13)\nEbM7 | Dm7(b5) _ G7 _ | Cm9 _ B9 _ | Bbm7 _ Eb9 _\nAbM7 | Eb/G | F9 | Bb7(13) _ Bb7(b13) _\n{interlude}\nAbm9 | _ | EbM9 | _\nAbm9 | _ | Bb7(13) | Bb7(b13)\n{c}\nEbM9 | EbaugM7 | EbM6 | Eb9\nFm9 | (싱코)E9 | Fm9 Eb/G /A /A | Bb7(13)\n{b''}\nEbM7 | Dm7(b5) _ G7 _ | Cm9 _ B9 _ | Bbm7 _ Eb9 _\nAbM7 | Eb/G | F9 | Bb7(13)\n||: EbM9 | EM9 | EbM9 | EM9 \nEbM9 | EM9 | EbM9 | EM9 :||",
       "transpose": 0,
       "capo": 0,
       "accMode": "auto",
       "diagMode": "off",
-      "updatedAt": 1783913829531
+      "updatedAt": 1784904893809
     }
   ]
 }
