@@ -185,11 +185,12 @@ Dm7 - | G7 -`,nh=`{A}
           .picker{left:50%;right:auto;transform:translateX(-50%);width:520px;bottom:16px;border:1px solid var(--line);border-radius:14px;box-shadow:0 14px 40px rgba(0,0,0,.20);max-height:78vh;}
         }
         @media print{
+          @page{size:A4; margin:0;}
           .light,.dark{--bg:#FFF;--panel:#FFF;--sheet:#FFF;--field:#FFF;--ink:#17191C;--mut:#878E96;--line:#E3E5E8;--hover:#F0F1F3;--accent:#E5352B;--on-accent:#FFF;}
           .no-print{display:none !important;}
           .app{background:#fff;}
           .preview-col{display:block !important;} .editor-col{display:none !important;}
-          .sheet{box-shadow:none;border:none;border-radius:0;padding:0;}
+          .sheet{box-shadow:none; border:none; border-radius:0; padding:12mm 11mm;}
           .sh-sect span{-webkit-print-color-adjust:exact;print-color-adjust:exact;}
           .rep-l,.rep-r,.rep-l::before,.rep-r::before,.rep-l i,.rep-r i{-webkit-print-color-adjust:exact;print-color-adjust:exact;}
           .m-row{break-inside:avoid;page-break-inside:avoid;}
